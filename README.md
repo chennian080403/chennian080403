@@ -1,9 +1,9 @@
 # 你好，我是花再（Huazai） 👋
 
-**AI 一人公司架构师 · 实战派工具作者**
+**AI 一人公司（OPC）实践者 · 实战派工具作者**
 每天用 **Claude Code + Pi + Codex CLI + Antigravity + Grok Bot** 写代码、剪视频、管知识库、做企业交付。把真正跑通的实战工作流，拆成 **人能直接看懂、AI 能直接装好** 的开源资产。
 
-🌐 **实战博客与 AI 可读笔记**：[https://blog.huazaiai.dpdns.org/](https://blog.huazaiai.dpdns.org/)
+🌐 **AI 一人公司（OPC）实战博客与 AI 可读笔记**：[https://huazaiai.com/](https://huazaiai.com/)
 🐦 **X / Twitter**：[https://x.com/CHYS043](https://x.com/CHYS043)
 💬 **免费开源交流 QQ 群**：`1130902372`（一群） / `2161031518`（二群）
 🤝 **个人微信**：`CHYS043`（加好友请备注「GitHub」）
